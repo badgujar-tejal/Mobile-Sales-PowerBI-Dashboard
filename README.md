@@ -23,4 +23,5 @@ This interactive Power BI dashboard analyzes mobile phone sales, transaction pat
 * **Data Formatting:** Configured clear KPI blocks displaying smart rounded numbers (M/K format) along with performance comparison buttons (MTD Report / Same Period Last Year).
 
 ## Dashboard Preview
-![Mobile Sales Dashboard](Mobile Sales Dashboard Preview.png)
+![Mobile Sales Dashboard](Mobile%20Sales%20Dashboard%20Preview.png)
+
